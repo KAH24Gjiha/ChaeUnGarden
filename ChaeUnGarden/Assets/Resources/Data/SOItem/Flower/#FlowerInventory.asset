@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01e66eb5e4407b545b242e6262d1f3c4, type: 3}
+  m_Name: '#FlowerInventory'
+  m_EditorClassIdentifier: 
+  group:
+  - {fileID: 11400000, guid: 7486b8156046be347961c21d733dbde2, type: 2}
+  - {fileID: 11400000, guid: 3be6dcbc80ff7b64799a7c4b18cb5cf4, type: 2}
+  - {fileID: 11400000, guid: 9cdfaa031736e3948bbd912fa662a336, type: 2}
+  - {fileID: 11400000, guid: 3d6f5c7f1a43f75429c9ab1dcc5f9a05, type: 2}
+  - {fileID: 11400000, guid: ee4251a5e0dd51d47b1c5a082ec91bac, type: 2}
